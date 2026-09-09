@@ -1,4 +1,4 @@
 # Event calendar 
-- Name: Tahlil Salman 
-- Place: In class
-- Time: 
+-- Name: Movie Night
+- Place: Student Center
+- Time: Friday at 7:00 PM
